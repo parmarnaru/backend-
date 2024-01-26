@@ -2,11 +2,11 @@
   "name": "backendcode",
   "version": "1.0.0",
   "description": " a backend code with javascript",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon src/index.js" 
-    },
+    "dev": "nodemon src/index.js"
+  },
   "keywords": [
     "javascript",
     ".backend"
@@ -14,6 +14,7 @@
   "author": "narayan",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.0.3"
+    "nodemon": "^3.0.3",
+    "prettier": "^3.2.4"
   }
 }

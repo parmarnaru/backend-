@@ -1,0 +1,7 @@
+{
+    "singleQuote":"false",
+    "breketspacing":"true",
+    "tabwidth":"2",
+    "traillingcomms":"es5",
+    "semi":"true"
+}
